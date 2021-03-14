@@ -6,7 +6,7 @@ Håper du liker det!</p>
 <h2>Linker til prosjekter;</h2>
 
 <p>Portefølje (prototype som ikke er ferdig):</br>
-https://xd.adobe.com/view/5c643106-4d75-4cc6-82a8-75ad9e70a850-0937/?fullscreen/p>
+https://xd.adobe.com/view/5c643106-4d75-4cc6-82a8-75ad9e70a850-0937/?fullscreen</p>
 </br>
 <p>Et sideprosjekt jeg jobber med ved siden av studiene:</br>
 http://web-host-it.com/greenly-decor/index.html</p>
