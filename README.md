@@ -1,7 +1,6 @@
 <h1>Velkommen til mine prosjekter</h1
 
-<p>Øverst finner du filer og under finner du linker jeg har lagt til. </br>
-Håper du liker det!</p>
+<p>Håper du liker det!</p>
 
 <h2>Linker til prosjekter;</h2>
 
