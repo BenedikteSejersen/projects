@@ -14,7 +14,7 @@ https://xd.adobe.com/view/768b4bc6-1673-470b-a59f-4a95b2b1cbe7-23d8/?fullscreen<
 <p>Eksamemsoppgave:</br>
 http://web-host-it.com/space-x-launches/code/html/index.html</p>
 </br>
-<p>Prosjekt jeg jobber med ved siden av studiene, dette er kun et lite utkast:
+<p>Prosjekt jeg jobber med ved siden av studiene, dette er kun et lite utkast:</br>
   http://web-host-it.com/greenly-decor/</p>
 </br>
 <p>Landingpage prosjekt:</br>
