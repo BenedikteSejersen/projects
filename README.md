@@ -1,6 +1,4 @@
-<h1>Velkommen til mine prosjekter</h1>
-
-<h3>Dette er hva jeg har fått til så langt.</h4>
+<h1>Velkommen til mine prosjekter</h1
 
 <p>Øverst finner du filer og under finner du linker jeg har lagt til. </br>
 Håper du liker det!</p>
