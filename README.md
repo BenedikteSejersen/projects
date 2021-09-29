@@ -2,7 +2,7 @@
 
 <h2>Linker til prosjekter;</h2>
 
-<p>Eksamensoppgave jeg jobber med nå. Dette er kun prototypen:</br> 
+<p>Eksamensoppgave. Dette er kun prototypen:</br> 
 https://xd.adobe.com/view/0ef3d16f-a341-41f0-9264-6004af41d49b-5ba0/?fullscreen</p>
 </br>
 <p>En skoleoppgave om å lage en guide til hvordan en nettside skal se ut:</br>
