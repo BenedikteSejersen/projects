@@ -1,6 +1,4 @@
-<h1>Velkommen til mine prosjekter</h1
-
-<p>Håper du liker det!</p>
+<h1>Mine prosjekter</h1>
 
 <h2>Linker til prosjekter;</h2>
 
