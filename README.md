@@ -11,8 +11,8 @@ https://xd.adobe.com/view/768b4bc6-1673-470b-a59f-4a95b2b1cbe7-23d8/?fullscreen<
 <p>Første eksamensoppgave:</br>
 http://web-host-it.com/space-x-launches/code/html/index.html</p>
 </br>
-<p>Landingpage prosjekt:</br>
-https://xd.adobe.com/view/45644569-0626-4fb5-b186-5b721741af3b-1037/?fullscreen
+<p>Eget redesign-prosjekt av Body Project (kun landingpage):</br>
+https://xd.adobe.com/view/ed3a7e7a-463a-4684-98ba-00e8716ae6f4-b869/?fullscreen
 </p>
  
 
