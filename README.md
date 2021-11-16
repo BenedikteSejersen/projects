@@ -2,7 +2,7 @@
 
 <h2>Linker til prosjekter;</h2>
 
-<p>Eksamensoppgave(prototype):</br> 
+<p>Andre eksamensoppgave(prototype):</br> 
 https://xd.adobe.com/view/0ef3d16f-a341-41f0-9264-6004af41d49b-5ba0/?fullscreen</p>
 </br>
 <p>Styleguide:</br>
