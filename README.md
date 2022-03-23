@@ -2,8 +2,9 @@
 
 <h2>Linker til prosjekter;</h2>
 
-<p>Andre eksamensoppgave(prototype):</br> 
-https://xd.adobe.com/view/0ef3d16f-a341-41f0-9264-6004af41d49b-5ba0/?fullscreen</p>
+<p>Eksamensoppgave 2:</br>
+<p>Dette er un et utkast siden dette er et prosjekt jeg holder på nå.</p>
+https://project-exam-2-benedikte-sejersen.vercel.app/</p>
 </br>
 <p>Styleguide:</br>
 https://xd.adobe.com/view/768b4bc6-1673-470b-a59f-4a95b2b1cbe7-23d8/?fullscreen</p>
