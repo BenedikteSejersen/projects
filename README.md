@@ -3,7 +3,8 @@
 <h2>Linker til prosjekter;</h2>
 
 <p>Eksamensoppgave 2:</br>
-<p>Dette er un et utkast siden dette er et prosjekt jeg holder på nå.</p>
+<p>Dette er kun et utkast siden dette er et prosjekt jeg holder på med nå.
+Den er kun lastet ned gjennom Vercel foreløpig.</p>
 https://project-exam-2-benedikte-sejersen.vercel.app/</p>
 </br>
 <p>Styleguide:</br>
