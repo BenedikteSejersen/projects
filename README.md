@@ -10,7 +10,7 @@ https://project-exam-2-benedikte-sejersen.vercel.app/</p>
 <p>Styleguide:</br>
 https://xd.adobe.com/view/768b4bc6-1673-470b-a59f-4a95b2b1cbe7-23d8/?fullscreen</p>
 </br>
-<p>Første eksamensoppgave:</br>
+<p>Eksamensoppgave 1:</br>
 https://web-host-it.com/spacex-launches/code/html/index.html</p>
 </br>
 <p>Lite mini-prosjekt basert på en effektiv research, originalt av Body Project:</br>
