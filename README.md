@@ -3,7 +3,7 @@
 <h2>Linker til prosjekter;</h2>
 
 <p>(Norsk piperehabilitering)Eksamensoppgave 2:</br>
-<p>Prosjektet , lastet ned gjennom Vercel foreløpig.</br>
+<p>Prosjektet, som er lastet ned gjennom Vercel foreløpig.</br>
 https://project-exam-2-benedikte-sejersen.vercel.app/</p>
 </br>
 <p>(Space X)Eksamensoppgave 1:</br>
